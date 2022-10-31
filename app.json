@@ -1,0 +1,21 @@
+{
+  "name": "Jarot offc",
+  "description": "Subscribete Chanel Me Jarot offc",
+  "repository": "https://github.com/Whatege/jancok-y",
+  "logo": "https://raw.githubusercontent.com/BrunoSobrino/Dev-3S-Bot/main/image/3SBot.jpg",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+  },
+  {
+    "url": "https://github.com/fewerandfaster/heroku-buildpack-imagemagick.git"
+  },
+  {
+    "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+  }    
+ ]
+}
