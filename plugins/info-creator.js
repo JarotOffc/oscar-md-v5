@@ -43,7 +43,7 @@ item6.URL:https://instagram.com/jarotr_
 item6.X-ABLabel:Instagram Jarot
 item7.URL:http://Instagram.com/alpiii.rsy
 item7.X-ABLabel: Instagram Alpi
-item1.TEL;waid=6285943036511:6285850539404@s.whatsapp.net
+item1.TEL;waid=6285850539404:6285850539404@s.whatsapp.net
 item1.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
