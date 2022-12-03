@@ -1,11 +1,11 @@
-global.you = ['6285850539404'] 
+global.you = ['628819541553'] 
 //Developer Bot
-global.gc = 'https://chat.whatsapp.com/I5Kz3Abawc5DqyBSDoYvKB'
-global.rowner = ['6285850539404'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
-global.police = ['6285850539404'] // Police Bot
-global.mods = ['6285850539404']  // Want some help?
-global.prems = ['6285850539404'] // Premium user has unlimited limit
+global.gc = 'https://chat.whatsapp.com/BxTcCvU1CIO41lIZKMdu3W'
+global.rowner = ['628819541553'] // Real Owner Bot
+global.owner = ['628819541553'] // Owner Bot
+global.police = ['628819541553'] // Police Bot
+global.mods = ['628819541553']  // Want some help?
+global.prems = ['6282197210183'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
@@ -13,9 +13,9 @@ global.fotonya4 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga
 global.fotonya5 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
 global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
-global.instagram = 'https://instagram.com/Jarotr_'
+global.instagram = 'https://instagram.com/dits_mods79?igshid=YmMyMTA2M2Y=
 
-global.helper = ['6285850539404']
+global.helper = ['6282197210183']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -84,9 +84,9 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'Ditzz'
+global.author = 'Ditzz '
+global.wm = '© Ditzz'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
